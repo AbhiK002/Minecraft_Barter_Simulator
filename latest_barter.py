@@ -1,5 +1,4 @@
 import random
-import keyboard
 poss_items = {
     "Water Bottle": 10,
     "Ender Pearl": 10,
@@ -53,7 +52,6 @@ def display_inventory():
 
 
 print("~ 1.16.2+ Bartering Simulator ~")
-keyboard.add_hotkey('esc', lambda: exit())
 poss_items_list = dict_to_list(poss_items)
 while True:
     inventory = {}
