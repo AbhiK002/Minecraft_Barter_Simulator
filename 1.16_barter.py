@@ -39,7 +39,7 @@ def n_throws():
 
 
 def display_inventory():
-    print("Inventory:\n")
+    print("Trade Details:\n")
     raw_det_list = []
     for coll_item, coll_count in inventory.items():
         item_perc = (int(coll_count) / throws) * 100
