@@ -8,3 +8,4 @@ There are currently 2 programs which have 2 different loot tables due to the sli
 - 1.16.2+
 
 # Image
+![t](https://github.com/AbhiK002/Minecraft_Barter_Simulator/blob/main/demo.png)
