@@ -9,6 +9,10 @@ There are currently 2 programs which have 2 different loot tables from 2 differe
 
 Loot table source - www.minecraft.gamepedia.com/Bartering
 # Image
-- v1.16 to 1.16.1
-![t]()
-![t]()
+- v1.16 to v1.16.1
+
+![t](https://github.com/AbhiK002/Minecraft_Barter_Simulator/blob/main/images/demo.png)
+
+- v1.16.2+
+
+![t](https://github.com/AbhiK002/Minecraft_Barter_Simulator/blob/main/images/demo2.png)
