@@ -3,10 +3,12 @@ These programs can be used to simulate Bartering from the famous game Minecraft,
 
 You just need to enter the number of gold ingots to be thrown and the program will virtually throw the gold and collect data such as how many trades did each item get (not the number of items) as well as the percentage occurance of every item trade.
 
-There are currently 2 programs which have 2 different loot tables due to the slight difference of some items:
+There are currently 2 programs which have 2 different loot tables from 2 different versions of the game:
 - 1.16 to 1.16.1
 - 1.16.2+
 
 Loot table source - www.minecraft.gamepedia.com/Bartering
 # Image
-![t](https://github.com/AbhiK002/Minecraft_Barter_Simulator/blob/main/demo.png)
+- v1.16 to 1.16.1
+![t]()
+![t]()
